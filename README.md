@@ -1,7 +1,7 @@
 Employee_Attrition_using_SVM
 ==============================
-
-A short description of the project.
+Support Vector Machines
+dataset: HR_Employee_Attrition.xlsx
 
 Project Organization
 ------------
